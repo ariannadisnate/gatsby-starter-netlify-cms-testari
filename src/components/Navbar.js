@@ -76,6 +76,7 @@ const Navbar = class extends React.Component {
                 Form Examples
               </Link>
             </div>
+            <h1>TESTO DI PROVa</h1>
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
